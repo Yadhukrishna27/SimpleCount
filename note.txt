@@ -1,0 +1,27 @@
+create new projects
+
+importing procees
+
+
+
+
+set reducers:
+{
+    calcutor
+    reset
+
+}
+
+exporting
+
+2.store
+
+importing
+exporting
+
+3.slice
+
+importing function
+button for arithemectic calcutions
+
+evlate
